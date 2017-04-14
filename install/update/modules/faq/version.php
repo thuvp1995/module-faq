@@ -14,11 +14,11 @@ if (! defined('NV_ADMIN') or ! defined('NV_MAINFILE')) {
 
 $module_version = array(
     'name' => 'Faq',
-    'modfuncs' => 'main,insertqa,list',
+    'modfuncs' => 'main',
     'is_sysmod' => 0,
     'virtual' => 1,
     'version' => '4.1.01',
-    'date' => 'Friday, 14 April 2017 17:00:00 GMT',
+    'date' => 'Fri, 14 Apr 2017 02:03:52 GMT',
     'author' => 'VINADES (contact@vinades.vn)',
     'note' => ''
 );
