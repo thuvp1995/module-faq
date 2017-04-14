@@ -26,7 +26,7 @@ $nv_update_config['formodule'] = 'faq';
 $nv_update_config['release_date'] = 1474563600;
 $nv_update_config['author'] = 'VINADES.,JSC (contact@vinades.vn)';
 $nv_update_config['support_website'] = 'https://github.com/nukeviet/module-faq/tree/to-4.1.01';
-$nv_update_config['to_version'] = '4.1.00';
+$nv_update_config['to_version'] = '4.1.01';
 $nv_update_config['allow_old_version'] = array('4.1.00');
 
 // 0:Nang cap bang tay, 1:Nang cap tu dong, 2:Nang cap nua tu dong
